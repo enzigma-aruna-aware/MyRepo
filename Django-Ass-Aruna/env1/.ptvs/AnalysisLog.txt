@@ -6656,3 +6656,7 @@ System.FormatException: Input string was not in a correct format.
 2017-07-22T12:27:44: Saving group "E:\Aruna-Aware-Django\Django-Ass-Aruna\env1\Lib\site-packages\django"
 2017-07-22T12:28:19: End of group "E:\Aruna-Aware-Django\Django-Ass-Aruna\env1\Lib\site-packages\django"
 2017-07-22T12:28:20: Deleting 0 files
+
+2017-07-22T12:38:06: Start analysis
+2017-07-22T12:38:06: IncludeModulesFromModulePath = win32com
+2017-07-22T12:38:07: Deleting 0 files
